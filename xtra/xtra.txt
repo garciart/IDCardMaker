@@ -1,0 +1,5 @@
+﻿Do not use VS to setup the application!
+Open an administrative shell in the repo folder and follow the .NET Core CLI instructions at https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=visual-studio
+You may have to run "dotnet add package Microsoft.EntityFrameworkCore.Sqlite" in the PackageManager
+Make sure that you that <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.5" /> is in your .csproj <ItemGroup> node (you can remove any SqlServer nodes).
+Replaced favicon.
