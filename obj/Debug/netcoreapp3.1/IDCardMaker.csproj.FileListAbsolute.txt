@@ -63,7 +63,6 @@ C:\Users\Rob\source\repos\IDCardMaker\bin\Debug\netcoreapp3.1\runtimes\win-arm\n
 C:\Users\Rob\source\repos\IDCardMaker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Rob\source\repos\IDCardMaker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Rob\source\repos\IDCardMaker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.csprojAssemblyReference.cache
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.AssemblyInfoInputs.cache
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.AssemblyInfo.cs
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.csproj.CoreCompileInputs.cache
