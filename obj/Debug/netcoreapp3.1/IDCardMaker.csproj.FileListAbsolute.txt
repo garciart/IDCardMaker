@@ -91,3 +91,4 @@ C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\staticwebassets\ID
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.dll
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.pdb
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.genruntimeconfig.cache
+C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.csprojAssemblyReference.cache

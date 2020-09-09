@@ -1,6 +1,6 @@
 # ID Card Maker
 
-![Demo ID Card](demo_card.png)
+![Demo ID Card](demo_card.png "We're on our way, Rampart!")
 
 >*The Real ID Card Maker allows you to create identification cards compliant with the REAL ID Act of 2005.*
 
