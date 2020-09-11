@@ -2,6 +2,16 @@
 Open an administrative shell in the repo folder and follow the .NET Core CLI instructions at https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=visual-studio
 You may have to run "dotnet add package Microsoft.EntityFrameworkCore.Sqlite" in the PackageManager
 Make sure that you that <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.5" /> is in your .csproj <ItemGroup> node (you can remove any SqlServer nodes).
+
 Populated README.md file.
 Populated LICENSE file.
 Replaced favicon.
+
+Populated .gitignore and .gitattributes files.
+
+Added identity and password options to Startup.cs.
+Scaffolded the Register, Login, LogOut, and RegisterConfirmation pages for customization.
+Followed the instructions at https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-3.1&tabs=visual-studio#scaffold-identity-into-a-razor-project-with-authorization
+- Make sure you run dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design in the PM conolse before scafolding Identity!
+- Make sure you create a new Data context class (i.e., IDCardMaker.Data.ApplicationDbContext)
+Set "DisplayConfirmAccountLink = false" in RegisterConfirmation.cshtml.cs
