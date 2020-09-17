@@ -189,3 +189,7 @@ C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\Razor\Areas\Identi
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\IDCardMaker.csprojAssemblyReference.cache
+C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Rob\source\repos\IDCardMaker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
