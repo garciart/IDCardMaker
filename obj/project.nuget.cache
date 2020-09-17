@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "byhyjoZ6Gscruz0I62cgJ91YQ7W8n30P+FHrpE1oMk8aOkdpJbj2vSOFFs9Es1CoEIDC+238gONSXIn2YCFLXA==",
+  "dgSpecHash": "okq4SPLgUxdVPZUTVpZBkielLqfzjaq9cOkwtSKvkT30HWEoSuQR9MYob6SJEyLn9+nTf1SgBll34NwvqmNkLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rob\\source\\repos\\IDCardMaker\\IDCardMaker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",
-    "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.5\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.5.nupkg.sha512",
+    "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.8\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.8.nupkg.sha512",
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.5\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.5.nupkg.sha512",
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\3.1.8\\microsoft.aspnetcore.identity.ui.3.1.8.nupkg.sha512",
